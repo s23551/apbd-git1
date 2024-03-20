@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APBD-git2", "APBD-git2\APBD-git2.csproj", "{8A1F7FBC-9BDC-4559-A439-33DAA436E407}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A1F7FBC-9BDC-4559-A439-33DAA436E407}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A1F7FBC-9BDC-4559-A439-33DAA436E407}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A1F7FBC-9BDC-4559-A439-33DAA436E407}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A1F7FBC-9BDC-4559-A439-33DAA436E407}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56346408-D153-4130-9062-284E0CB9E73E}
+	EndGlobalSection
+EndGlobal
